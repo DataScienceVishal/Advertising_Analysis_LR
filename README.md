@@ -1,3 +1,13 @@
-# Advertising Analysis using Linear Regression
+## **Project Description:**
 
-I leveraged an engaging advertising dataset featuring TV, Radio, Newspaper, and Sales columns to implement cutting-edge analytics. Employing sophisticated techniques in simple linear regression using renowned scientific libraries such as statsmodels and sklearn, I achieved impressive results that not only showcased the power of data-driven decision-making but also demonstrated my proficiency in advanced statistical modeling. I am excited to share the journey of transforming data into actionable insights and driving impactful outcomes.
+**About Data:**  
+The dataset included records of advertising expenditures across TV, Radio, and Newspaper, along with corresponding sales figures, enabling data-driven decision-making in advertising strategies.
+
+**Problem Statement:**  
+The project aimed to analyze the impact of advertising channels (TV, Radio, Newspaper) on sales to optimize future advertising strategies.
+
+**Solution:**  
+Utilized simple linear regression to establish relationships between advertising expenditures and sales figures, aiming to understand each medium's contribution to sales. The model achieved an impressive R-squared value of 81%, indicating a good fit to the data and robust predictive capability.
+
+**Libraries:**  
+Leveraged pandas and numpy for data manipulation and preprocessing, and utilized statsmodels and sklearn for analysis, offering robust functionalities for regression modeling and evaluation.
